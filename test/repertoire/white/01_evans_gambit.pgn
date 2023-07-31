@@ -1,0 +1,9 @@
+[Event "Evans Gambit"]
+[Result "*"]
+[UTCDate "2023.07.22"]
+[UTCTime "18:40:17"]
+[Variant "Standard"]
+[ECO "C52"]
+[Opening "Italian Game: Evans Gambit, Main Line"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 (4... Nxb4 5. c3 Nc6) (4... Be7 5. b5) 5. c3 Ba5 6. d4 *
